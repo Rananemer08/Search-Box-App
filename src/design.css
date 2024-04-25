@@ -1,9 +1,9 @@
 /* * {
   background-color: #f5f5f5;
-}
+} */
 
 .search-in {
-  border-color: #efefef;
+  border-color: #efefef !important;
   height: 40px;
   width: 880px;
   margin-left: 2.4em;
@@ -36,4 +36,4 @@ p {
   padding-top: 30px;
   padding-bottom: 70px;
   padding-right: 950px;
-} */
+}
